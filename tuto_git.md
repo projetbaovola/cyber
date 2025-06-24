@@ -59,6 +59,7 @@ git checkout ton-prenom
 | Committer          | `git commit -m "Message"`                              |
 | Pousser            | `git push -u origin ton-prenom`                        |
 | Changer de branche | `git checkout nom-branche`                             |
+| Mettre à jour      | `git merge main`                                       |
 
 ---
 
