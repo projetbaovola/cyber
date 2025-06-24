@@ -49,6 +49,8 @@ cd cyber
 git checkout ton-prenom
 ```
 
+---
+
 ## 📋 Commandes essentielles
 
 | Action             | Commande                                               |
@@ -63,6 +65,11 @@ git checkout ton-prenom
 
 ---
 
+## 🔄 Fusionner ta branche avec main
+
+### 6️⃣ Intégrer ton travail dans main
+
+```bash
 # 1. Aller dans ton projet
 cd cyber
 
@@ -72,8 +79,13 @@ git checkout main
 # 3. Mettre main à jour avec le dépôt distant
 git pull origin main
 
-# 4. Merger ta branche (ex: sylvio)
+# 4. Fusionner ta branche (ex: sylvio)
 git merge sylvio
 
 # 5. Pousser la branche main mise à jour sur GitHub
 git push origin main
+```
+
+---
+
+**💡 Conseil :** Remplace `ton-prenom` par ton nom ou pseudo !
