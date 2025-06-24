@@ -63,4 +63,17 @@ git checkout ton-prenom
 
 ---
 
-**💡 Conseil :** Remplace `ton-prenom` par ton nom ou pseudo !
+# 1. Aller dans ton projet
+cd cyber
+
+# 2. Se placer sur main
+git checkout main
+
+# 3. Mettre main à jour avec le dépôt distant
+git pull origin main
+
+# 4. Merger ta branche (ex: sylvio)
+git merge sylvio
+
+# 5. Pousser la branche main mise à jour sur GitHub
+git push origin main
