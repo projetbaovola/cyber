@@ -1,4 +1,4 @@
-# 📘 TUTO GIT : Collaboration par branche
+# 📘 TUTORIEL GIT : Collaboration par branche
 
 ## 🎯 Objectif
 
@@ -80,7 +80,7 @@ git checkout main
 git pull origin main
 
 # 4. Fusionner ta branche (ex: sylvio)
-git merge sylvio
+git merge Sylvio
 
 # 5. Pousser la branche main mise à jour sur GitHub
 git push origin main
